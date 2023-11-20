@@ -5,6 +5,6 @@ if (age > 18) {
   accessAllowed = true;
 } else {
   accessAllowed = false;
-}
+
 
 alert(accessAllowed);
